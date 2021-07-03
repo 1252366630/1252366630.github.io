@@ -9,4 +9,4 @@
 
 **计划文档**
 
-[第一版202107031修订版](http://firefly.inumy.cn/launch/plan)
+[第一版202107031修订版](http://firefly.inumy.cn/launch/plan/20210703-1)
