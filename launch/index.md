@@ -14,4 +14,4 @@
 
 **学习文档**
 
-[学习笔记一](http://firefly.inumy.cn/launch/launch/20210705-1)
+[学习笔记一](http://firefly.inumy.cn/launch/article/20210705-1)
