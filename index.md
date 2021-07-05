@@ -5,5 +5,5 @@
 
 [「萤」计划](http://firefly.inumy.cn/about/index)
 
-[星辰随念](http://firefly.inumy.cn/stars/index)
+[星尘随念](http://firefly.inumy.cn/stars/index)
 
