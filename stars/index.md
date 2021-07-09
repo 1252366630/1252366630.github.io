@@ -8,11 +8,16 @@
 
 [『2020年年终盘点』不畏春光、勿忘盛夏](http://firefly.inumy.cn/stars/articles/21070501)
 
+[『2021年年中盘点』信步拾石、稳步前行](http://firefly.inumy.cn/stars/articles/21070901)
+
+
 转自别人：
 
 [「长沙掠影」](http://firefly.inumy.cn/stars/articles/21070601)
 
 **最新文章**：
+
+[『2021年年中盘点』信步拾石、稳步前行](http://firefly.inumy.cn/stars/articles/21070901)
 
 [「长沙掠影」](http://firefly.inumy.cn/stars/articles/21070601)
 
