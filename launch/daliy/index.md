@@ -1,4 +1,4 @@
-# 每日计划 - 「萤」-飞行计划
+# 每日计划 - 「萤」-飞行计划（已停用）
 
 [返回首页](http://firefly.inumy.cn/launch/index)
 
