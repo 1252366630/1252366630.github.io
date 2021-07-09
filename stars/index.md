@@ -13,9 +13,13 @@
 
 转自别人：
 
+[「愿世间美好与你们环环相扣」](http://firefly.inumy.cn/stars/articles/21070902)
+
 [「长沙掠影」](http://firefly.inumy.cn/stars/articles/21070601)
 
 **最新文章**：
+
+[「愿世间美好与你们环环相扣」](http://firefly.inumy.cn/stars/articles/21070902)
 
 [『2021年年中盘点』信步拾石、稳步前行](http://firefly.inumy.cn/stars/articles/21070901)
 
