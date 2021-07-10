@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:40;stroke-miterlimit:10;}
+</style>
+<g>
+	<path d="M194.02,131.04c-27.61,0-50,22.39-50,50v731.78c0,27.61,22.39,50,50,50h629.63c27.61,0,50-22.39,50-50V181.04
+		c0-27.61-22.39-50-50-50H711.64v74.04c0,22.06-17.94,40-40,40s-40-17.94-40-40v-74.04h-245.6v74.04c0,22.06-17.94,40-40,40
+		s-40-17.94-40-40v-74.04H194.02z M699.27,733.19H318.41c-11.05,0-20-8.95-20-20s8.95-20,20-20h380.86c11.05,0,20,8.95,20,20
+		S710.31,733.19,699.27,733.19z M699.27,554H318.41c-11.05,0-20-8.95-20-20s8.95-20,20-20h380.86c11.05,0,20,8.95,20,20
+		S710.31,554,699.27,554z M318.41,334.82h380.86c11.05,0,20,8.95,20,20s-8.95,20-20,20H318.41c-11.05,0-20-8.95-20-20
+		S307.36,334.82,318.41,334.82z"/>
+	<path d="M366.04,205.08V62.82c0-11.05-8.95-20-20-20s-20,8.95-20,20v142.26c0,11.05,8.95,20,20,20S366.04,216.13,366.04,205.08z"/>
+	<path d="M691.64,205.08V62.82c0-11.05-8.95-20-20-20s-20,8.95-20,20v142.26c0,11.05,8.95,20,20,20S691.64,216.13,691.64,205.08z"/>
+</g>
+</svg>
