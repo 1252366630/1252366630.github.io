@@ -1,6 +1,6 @@
 # 关于 - 「萤」-飞行计划
 
-[返回首页](http://firefly.inumy.cn/launch/index)
+[返回首页](../)
 
 飞行计划是由inhu和「萤」计划共同推行的计划。
 
