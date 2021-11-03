@@ -10,7 +10,7 @@
 
 ### [IP登陆](http://172.30.255.2/a30.htm)
 
-### [内部网](http://szu.edu.cn)
+### [内部网](http://www1.szu.edu.cn)
 
 ### [课程表](http://ehall.szu.edu.cn/jwapp/sys/wdkb/*default/index.do?t_s=1635942527910&amp_sec_version_=1&gid_=VmV0UTQ5NzQvSGlWYzVpbEpRbXFzQ0F2Sk1CT1lSNHdvTnZZcFNIS1NvMVBNVDdkNzM5YzVFenY2WGhFYzJzdUdtdGRIeHZyVXJ0d1FSVUk0SmEydEE9PQ&EMAP_LANG=zh&THEME=indigo#/xskcb)
 
